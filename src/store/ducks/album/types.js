@@ -1,0 +1,9 @@
+const LOAD_ALBUM_SUCCESS = 'LOAD_ALBUM_SUCCESS'
+const CLEAR_ALBUM_STATE = 'CLEAR_ALBUM_STATE'
+
+const types = {
+  LOAD_ALBUM_SUCCESS,
+  CLEAR_ALBUM_STATE
+}
+
+export default types;

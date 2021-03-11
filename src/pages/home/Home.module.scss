@@ -1,0 +1,13 @@
+.Home {
+  width: 1250px;
+  margin: 0 auto;
+  background-color: #FBFCFC;
+  min-height: 100vh;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding-bottom: 30px;
+
+  & h1 {
+    text-align: center;
+  }
+}
